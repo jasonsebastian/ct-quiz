@@ -13,5 +13,5 @@
 
 - Upon opening the Google Colab notebook, click on the `Copy to Drive` button. You may be asked to log in to your Google account. 
 - When you have finished attempting the quiz, click on `File > Download .py`.
-- Rename the Python file to `ct_quiz1_<your_name>` (for example, `ct_quiz1_jason`).
+- Rename the Python file to `ct_quiz1_<your_name>.py` (for example, `ct_quiz1_jason.py`).
 - Email the file to `jasonnsebastian@gmail.com`.

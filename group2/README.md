@@ -48,9 +48,9 @@ The ping-pong sequence counts up starting from 1 and is always either counting u
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |PingPong Value|[-4]|-3|-2|-1|[0]|-1|-2|
 
-Implement a function pingpong that returns the nth element of the ping-pong sequence without using any assignment statements.
+Implement a function `pingpong` that returns the nth element of the ping-pong sequence without using any assignment statements.
 
-You may use the function num_eights, which you defined in the previous question.
+You may use the function `num_eights`, which you defined in the previous question.
 
 ```python
 def pingpong(n):

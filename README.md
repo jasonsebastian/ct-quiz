@@ -4,6 +4,7 @@
 
 - The duration of the quiz is 1 hour.
 - You are not allowed to consult anyone, including consulting on the Internet.
+- Please turn on your camera throughout the duration of the quiz.
 
 ## Instruction
 
